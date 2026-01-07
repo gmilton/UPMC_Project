@@ -1,9 +1,11 @@
-##Final Clean Dataset for Coding Challenge
+## Final Clean Dataset for Coding Challenge
 
 This dataset contains the total HAM score, mean HAM score, latest HAM score, 
 and HAM score closest to one year after first consent for participants of 
-interest.  
+interest.    
+  
 A data frame with 90 observations on the following 8 variables.  
+  
 new_ID (character)
 : ID of participant
 total_ham_score (numeric)
