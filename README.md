@@ -1,5 +1,7 @@
 # Final Clean Dataset for Coding Challenge
 
+The final data set, final_df, can be found in the clean_data folder. It's available there as an R dataset, a CSV file, or an Excel file.  
+
 This dataset contains the total HAM score, mean HAM score, latest HAM score, 
 and HAM score closest to one year after first consent for participants of 
 interest.    
